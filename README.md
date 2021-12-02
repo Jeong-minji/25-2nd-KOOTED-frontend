@@ -1,7 +1,7 @@
 # KOOTED
 
 ## Introduction
-[ Wanted 사이트](https://www.wanted.co.kr/newintro) 클론 프로젝트<br>
+[ Wanted 사이트](https://www.wanted.co.kr/newintro)를 모티브로 한 프로젝트<br>
 카테고리별 채용 공고를 확인하고, 이력서를 작성하여 원하는 회사에 지원할 수 있는 사이트
 - 기간: 2021. 10. 18. ~ 2021. 10. 29.
 - [Backend GitHub](https://github.com/wecode-bootcamp-korea/25-2nd-KOOTED-backend)
